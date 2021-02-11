@@ -1,5 +1,5 @@
 # -Python-Project-4
-#4 Count to a number(Input) as Loop
+#4 Count to a number(Input) as for Loop
 
 def inputNumber(message):
     while True:
